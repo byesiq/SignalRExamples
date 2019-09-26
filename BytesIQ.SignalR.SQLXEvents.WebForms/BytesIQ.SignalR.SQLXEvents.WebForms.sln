@@ -8,6 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts", "BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts", "{BBA34827-8C31-43A8-8614-E1515E607878}"
 	ProjectSection(SolutionItems) = preProject
 		..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\001_Create_Database.sql = ..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\001_Create_Database.sql
+		..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\002_Create_Database Role.sql = ..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\002_Create_Database Role.sql
+		..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\003_Create_Database Schema With Authorized Role.sql = ..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\003_Create_Database Schema With Authorized Role.sql
+		..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\004_Create_Procedure usp_XEvents_150x0080.sql = ..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\004_Create_Procedure usp_XEvents_150x0080.sql
+		..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\005_Create_Monitor_XEvents_150x0080.sql = ..\BytesIQ.SignalR.SQLXEvents.SQLServer.Scripts\005_Create_Monitor_XEvents_150x0080.sql
 	EndProjectSection
 EndProject
 Global
