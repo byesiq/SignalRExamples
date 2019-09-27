@@ -25,13 +25,13 @@
                 Goto the Bytes IQ article about this demo.
             </p>
             <p>
-                <a class="btn btn-default" href="http://www.bytesiq.com">www.bytesiq.com/article</a>
+                <a class="btn btn-default" href="https://www.bytesiq.com">www.bytesiq.com/article</a>
             </p>
             <p>
                 Goto the Bytes IQ website.
             </p>
             <p>
-                <a class="btn btn-default" href="http://www.bytesiq.com">www.bytesiq.com</a>
+                <a class="btn btn-default" href="https://www.bytesiq.com">www.bytesiq.com</a>
             </p>
         </div>
     </div>
